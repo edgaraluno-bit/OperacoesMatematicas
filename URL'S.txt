@@ -1,0 +1,4 @@
+http://localhost:${PORT}/math/soma?a=50&b=7
+http://localhost:${PORT}/math/divisao?a=100&b=25
+http://localhost:${PORT}/math/multiplicacao?a=10&b=5
+http://localhost:${PORT}/math/subtracao?a=10&b=5
